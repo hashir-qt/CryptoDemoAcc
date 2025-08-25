@@ -25,7 +25,6 @@ app.add_middleware(
 )
 
 engine = create_engine('sqlite:///./crypto_portfolio.db', connect_args={'check_same_thread': False})
-engine = create_engine("sqlite:///./my_database.db")
 insp = inspect(engine)
 
 print(insp.get_table_names())
