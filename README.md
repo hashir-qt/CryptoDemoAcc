@@ -61,9 +61,9 @@ Backend will be available at 👉 http://localhost:8000
 📡 API Endpoints (Overview)
 🔐 Authentication
 
-POST /auth/register → Register new user
+POST /register → Register new user
 
-POST /auth/login → Login & get JWT
+POST /login → Login & get JWT
 
 💰 Portfolio
 
@@ -73,9 +73,9 @@ POST /portfolio/add-money → Add money to balance
 
 💱 Trading
 
-POST /trade/buy → Buy an asset
+POST /buy → Buy an asset
 
-POST /trade/sell → Sell an asset
+POST /sell → Sell an asset
 
 📡 Real-time
 
