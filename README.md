@@ -24,18 +24,6 @@ The **frontend** is built with [Next.js (App Router)](https://nextjs.org/), whil
 
 ---
 
-## 📂 Project Structure
-
-backend/
-├── app/
-│ ├── main.py # FastAPI entrypoint
-│ ├── models.py # Database models
-│ ├── schemas.py # Pydantic schemas
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
