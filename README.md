@@ -34,15 +34,14 @@ backend/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-
 ---
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/crypto-portfolio-backend.git
-cd crypto-portfolio-backend
+git clone https://github.com/hashir-qt/CryptoDemoAcc.git
+cd cryptodemoacc
 
 2️⃣ Create virtual environment
 python -m venv venv
